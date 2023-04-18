@@ -1,0 +1,22 @@
+div{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+
+#container-a {
+    background-color: red;
+}
+
+#container-b{
+    background-color:blue;
+
+}
+#container-c{
+    background-color: green;
+}
+#container-d{
+    background-color: yellow;
+}
